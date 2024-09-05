@@ -1,0 +1,1 @@
+void ping(char * hostIp,  char * hostName);

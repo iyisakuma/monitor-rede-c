@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "erro-handler.h": "c",
+    "errno.h": "c",
+    "netdb.h": "c",
+    "socket.h": "c",
+    "inet.h": "c",
+    "stdlib.h": "c",
+    "types.h": "c",
+    "ip_icmp.h": "c",
+    "functional": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
