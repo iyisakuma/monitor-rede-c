@@ -1,0 +1,3 @@
+- Como rodar:
+
+sudo ./main
