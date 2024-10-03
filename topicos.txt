@@ -1,0 +1,5 @@
+- o que é protocolo ICMP
+
+- Explique brevemente o que é o checksum (A importancia)
+
+- Explicação breve de como mostra as informações de ipv 4 e ipv 6 em C

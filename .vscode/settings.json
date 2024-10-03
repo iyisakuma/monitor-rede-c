@@ -8,7 +8,9 @@
     "stdlib.h": "c",
     "types.h": "c",
     "ip_icmp.h": "c",
-    "functional": "c"
+    "functional": "c",
+    "ifaddrs.h": "c",
+    "ping-utility.h": "c"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }
